@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/muskan184/muskan184/blob/main/photos.gif)
 <h1 align="center">Hi 👋, I'm MUSKAN DUBEY</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
