@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Devlopment and Dsa**
 
-- 💬 Ask me about **Html.Css.Javascript,Node.js,react.js,c++,c**
+- 💬 Ask me about **Html,CSS,Javascript,Node.js,react.js,c++,c**
 
 - 📫 How to reach me **muskandubey184@gmail.com ,  muskandubey285@gmail.com**
 
