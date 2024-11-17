@@ -1,6 +1,6 @@
 ![logo](https://github.com/muskan184/muskan184/blob/main/photos.gif)
 <h1 align="center">Hi 👋, I'm MUSKAN DUBEY</h1>
-<h3 align="center">A passionate web devloper</h3>
+<h3 align="center">A passionate Web Devloper💻</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
 
